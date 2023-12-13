@@ -51,7 +51,9 @@
 - طوفان مصر - سوهاج ١: https://discord.gg/gXQpZJmgph
 - طوفان مصر - سوهاج ٢: https://discord.gg/ShX6dzB5jE
 - طوفان مصر - قنا ١: https://discord.gg/XDFj4JpMmw
-- طوفان مصر - كفر الشيخ ١: https://discord.gg/QezdNTF7yf## طرقة تعديل الصفحة الرئيسية 
+- طوفان مصر - كفر الشيخ ١: https://discord.gg/QezdNTF7yf
+
+## طرقة تعديل الصفحة الرئيسية 
 ملف `index.html` يمثل الصفحة الرئيسية لمبادرة طوفان مصر.
 
 فى حال تريد تعديل شىء ما بالصفة ستقوم بالتالى:
