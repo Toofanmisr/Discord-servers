@@ -1,5 +1,5 @@
 ## شارك فى احد السيرفرات التاليه
-helllllllo
+
 - طوفان مصر -  البحيرة , مطروح , الوادى الجديد ١: https://discord.gg/yFHwZ9bn7k
 - طوفان مصر -  البحيرة , مطروح , الوادى الجديد ٢: https://discord.gg/43pjaaQWPV
 - طوفان مصر -  البحيرة , مطروح , الوادى الجديد ٣: https://discord.gg/FWTYVbshjq
