@@ -1,7 +1,7 @@
 ## شارك فى احد السيرفرات التاليه
 
-- طوفان مصر -  البحيرة , مطروح , الوادى الجديد ١: https://discord.gg/yFHwZ9bn7k
-- طوفان مصر -  البحيرة , مطروح , الوادى الجديد ٢: https://discord.gg/43pjaaQWPV
+- طوفان مصر -  البحيرة , مطروح , الوادى الجديد ١: https://discord.gg/9xwTu8BSdf
+- طوفان مصر -  البحيرة , مطروح , الوادى الجديد ٢: https://discord.gg/eAdbQBDqKt
 - طوفان مصر -  البحيرة , مطروح , الوادى الجديد ٣: https://discord.gg/FWTYVbshjq
 - طوفان مصر - اسيوط ١: https://discord.gg/U3TtGFBDvF
 - طوفان مصر - اسيوط ٢: https://discord.gg/XXYEXtGhQU
@@ -17,13 +17,13 @@
 - طوفان مصر - الجيزه ٣: https://discord.gg/cyvRhGjzS6
 - طوفان مصر - الجيزه ٤: https://discord.gg/CXUgyB3NyT
 - طوفان مصر - الجيزه ٥: https://discord.gg/7tAbAqSmVu
-- طوفان مصر - الجيزه ٦: https://discord.gg/6N7UyhSJax
+- طوفان مصر - الجيزه ٦: https://discord.gg/3WSZND72Uz
 - طوفان مصر - الجيزه ٧: https://discord.gg/Bpm939AdHn
 - طوفان مصر - الجيزه ٨: https://discord.gg/YpqeMHTvtq
 - طوفان مصر - الدقهلية ١: https://discord.gg/gBnaXkQN7M
 - طوفان مصر - الدقهلية ٢: https://discord.gg/QHBVJ88RBb
 - طوفان مصر - الدقهلية ٣: https://discord.gg/3HXUq97nbP
-- طوفان مصر - الشرقية ١: https://discord.gg/cpAxsRptNH
+- طوفان مصر - الشرقية ١: https://discord.gg/3bc7GxQ6yd
 - طوفان مصر - الشرقية ٢: https://discord.gg/GVt4WmpjnU
 - طوفان مصر - الشرقية ٣: https://discord.gg/DBxEjsDqsW
 - طوفان مصر - الغربية ١: https://discord.gg/dg4RjYXhBb
@@ -31,7 +31,7 @@
 - طوفان مصر - الفيوم ١: https://discord.gg/zTKK5Tr5KY
 - طوفان مصر - الفيوم ٢: https://discord.gg/pTT4t9z9Nd
 - طوفان مصر - القاهره ١: https://discord.gg/m5zxRN56Qq
-- طوفان مصر - القاهره ٢: https://discord.gg/SVH832RmzU
+- طوفان مصر - القاهره ٢: https://discord.gg/Ncjm84y3eq
 - طوفان مصر - القاهره ٣: https://discord.gg/YKEQW6c2Gz
 - طوفان مصر - القاهره ٤: https://discord.gg/wqCXSz93pA
 - طوفان مصر - القاهره ٥: https://discord.gg/qWPRw2BfBN
